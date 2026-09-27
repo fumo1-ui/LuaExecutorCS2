@@ -1,4 +1,4 @@
-# CS2 Lua Executor (DirectX 11 ImGui Hook)
+# CS2 Lua Executor
 
 Мощный внутриигровой Lua-экзекутор для **Counter-Strike 2**, построенный на базе перехвата **DirectX 11 (Kiero / MinHook)** и графического интерфейса **Dear ImGui**.
 
